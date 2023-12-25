@@ -22,7 +22,5 @@ def money_conversion():
             print("Pls enter a valid digit")
          
 
-
-
 dollar_euro_covert = money_conversion()
 print(f"you converted into {dollar_euro_covert}euros")
